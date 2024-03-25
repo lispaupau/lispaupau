@@ -6,6 +6,10 @@ Backend developer
 
 Developer with experience working on projects in the field of web development and data analysis. Strong communication skills and ability to quickly learn new technologies. I am ready to actively learn and improve my skills in order to become a more experienced developer and contribute to the development of the company. Willing to work both as part of a team and independently to achieve common goals.
 
+<p align="center" dir="auto">
+ <a target="_blank" rel="noopener noreferrer" href="/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg"><img width="600" src="/FilimonovAlexey/FilimonovAlexey/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
+</p>
+
 * 🌍  I'm based in Moldova
 * ✉️  You can contact me at [pndao@inbox.ru](mailto:pndao@inbox.ru)
 
